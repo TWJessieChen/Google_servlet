@@ -1,0 +1,6 @@
+indexes:
+
+- kind: gv_eye_camera_list
+  properties:
+  - name: db_content
+    direction: asc
